@@ -1,0 +1,15 @@
+C:\Users\akemboi\source\repos\isPrime\bin\Debug\net8.0\isPrime.exe
+C:\Users\akemboi\source\repos\isPrime\bin\Debug\net8.0\isPrime.deps.json
+C:\Users\akemboi\source\repos\isPrime\bin\Debug\net8.0\isPrime.runtimeconfig.json
+C:\Users\akemboi\source\repos\isPrime\bin\Debug\net8.0\isPrime.dll
+C:\Users\akemboi\source\repos\isPrime\bin\Debug\net8.0\isPrime.pdb
+C:\Users\akemboi\source\repos\isPrime\obj\Debug\net8.0\isPrime.csproj.AssemblyReference.cache
+C:\Users\akemboi\source\repos\isPrime\obj\Debug\net8.0\isPrime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akemboi\source\repos\isPrime\obj\Debug\net8.0\isPrime.AssemblyInfoInputs.cache
+C:\Users\akemboi\source\repos\isPrime\obj\Debug\net8.0\isPrime.AssemblyInfo.cs
+C:\Users\akemboi\source\repos\isPrime\obj\Debug\net8.0\isPrime.csproj.CoreCompileInputs.cache
+C:\Users\akemboi\source\repos\isPrime\obj\Debug\net8.0\isPrime.dll
+C:\Users\akemboi\source\repos\isPrime\obj\Debug\net8.0\refint\isPrime.dll
+C:\Users\akemboi\source\repos\isPrime\obj\Debug\net8.0\isPrime.pdb
+C:\Users\akemboi\source\repos\isPrime\obj\Debug\net8.0\isPrime.genruntimeconfig.cache
+C:\Users\akemboi\source\repos\isPrime\obj\Debug\net8.0\ref\isPrime.dll
